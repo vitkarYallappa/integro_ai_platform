@@ -1,3 +1,7 @@
+## Channel Integration Architecture
+
+### Channel System Overview
+```
 app/
 ├── __init__.py
 ├── main.py
@@ -695,3 +699,4 @@ app/
     └── e2e/
         ├── interaction_flows/
         └── workflow_scenarios/
+```
